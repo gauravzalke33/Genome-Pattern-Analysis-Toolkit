@@ -8,3 +8,4 @@ Beginner friendly bioinformatics toolkit for genomic pattern analysis, including
 - **FrequencyMap:** generates a dictionary with all the possible kmers from the genome as a key and their number of occurence as their values
 - **FrequentWords:** to indentify the most frequent kmers
 - **ReverseComplement:** computes reverse complement of the given genome
+- **Clump Finding:** this algorithm finds all the k-mers that atlest appear at least t times within any window of length L in a genome
